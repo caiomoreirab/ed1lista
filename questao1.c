@@ -29,11 +29,6 @@
 
 
 
-
-
-
-
-
 //1. Faça um algoritmo que recebe um número inteiro n, e um vetor de inteiros com n
 //posições e retorna a soma dos números lidos percorrendo o vetor.
 //ProtóSpo: int SomaElmVetor(int *v, int n)
